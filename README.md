@@ -1,1 +1,2 @@
-# Video Games Sales Dataset EDA600 × 321
+# Video Games Sales Dataset
+3,200 × 1,800
